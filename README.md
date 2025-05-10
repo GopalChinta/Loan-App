@@ -94,7 +94,7 @@ Here's a README section specifically detailing the API endpoints based on the pr
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/kunalthgr8/CreditSea-Assignment.git
+   git clone https://github.com/GopalChinta/Loan-App.git
    ```
 
 2. **Install dependencies**:
@@ -153,6 +153,8 @@ const errorHandler = (res, statusCode, message, details = null) => {
 ```
 
 **Note**: If the API fails to respond to the frontend, please attempt to reload, as it may be a Vercel issue (where the application is hosted).
+
+Live site: https://credit-sea-assignment.vercel.app/
 
 ### Metrics
 - **Active Users**: The total count of users who have submitted loan applications.
